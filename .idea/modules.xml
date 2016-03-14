@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/asyncDemo.iml" filepath="$PROJECT_DIR$/asyncDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvcDemo/mvcDemo.iml" filepath="$PROJECT_DIR$/mvcDemo/mvcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvcDemo2/mvcDemo2.iml" filepath="$PROJECT_DIR$/mvcDemo2/mvcDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servletDemo/servletDemo.iml" filepath="$PROJECT_DIR$/servletDemo/servletDemo.iml" />
+    </modules>
+  </component>
+</project>

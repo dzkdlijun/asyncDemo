@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mvcDemo/src/main/java/com/leeo/support/JavaBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo/src/main/java/com/leeo/support/XssCleanJsonHttpMsgConverter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo/src/main/java/com/leeo/support/XssCleanStringUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo/src/main/resources/dispatch-servlet.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo/src/main/webapp/WEB-INF/dispatch-servlet.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo/src/main/webapp/WEB-INF/web.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo2/src/main/java/com/leeo/Domain/JavaBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo2/src/main/java/com/leeo/XssCleanJsonHttpMsgConverter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo2/src/main/java/com/leeo/XssCleanStringUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo2/src/main/java/com/leeo/controller/CallableController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo2/src/main/java/com/leeo/controller/DeferredController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo2/src/main/resources/dispatch-servlet.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo2/src/main/webapp/WEB-INF/dispatch-servlet.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvcDemo2/src/main/webapp/WEB-INF/web.xml" charset="UTF-8" />
+  </component>
+</project>
